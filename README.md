@@ -38,4 +38,4 @@
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Fusion%20360-7e3400?style=for-the-badge)
+![](https://img.shields.io/badge/Fusion%20360-ff6b00?style=for-the-badge)
