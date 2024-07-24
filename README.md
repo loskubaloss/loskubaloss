@@ -6,7 +6,9 @@
 
 **Email**: info@onway.space
 
-**Website**: https://loskubalos.eu.org
+**Portfolio**: https://loskubalos.eu.org
+
+**Time**: [![wakatime](https://wakatime.com/badge/user/018b10be-490f-4746-aa2f-bc16a7b5a7d9.svg)](https://wakatime.com/@018b10be-490f-4746-aa2f-bc16a7b5a7d9)
 
 ##### Projects:
 
